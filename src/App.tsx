@@ -4,7 +4,7 @@ function App() {
   return (
     <main>
       <div>
-        <h1>My React app</h1>
+        <h1>¡My React app!</h1>
         <nav>
           <Link to="/">Home</Link> | <Link to="about">About</Link>
         </nav>
